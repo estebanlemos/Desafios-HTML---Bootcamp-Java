@@ -1,0 +1,66 @@
+
+body {
+background-color: #edf7ff;
+min-height: 1080px;
+max-width: 900px;
+text-align: left;
+}
+
+section {
+    height: fit-content;
+}
+h1{
+    font-family: 'MuseoModerno', sans-serif;
+    color: #0a2ff1;
+    font-weight: bold;
+    font-size: 88pt;
+    padding-top: 1em;
+    padding-bottom: 0;
+    margin: 0;
+    margin-block: 0;
+    height:160px;
+    
+}
+
+h2 {
+    font-family: 'Asap', sans-serif;
+    color:#0a2ff1;
+    font-weight: bold;
+    font-size: 39pt;
+    padding: 0;
+    margin: 0;
+    margin-block: 0;
+}
+
+p{
+    font-family: 'Asap', sans-serif;
+    color:#04146c;
+    font-size: 25pt;
+    
+
+
+}
+
+
+
+h3 {
+    font-family: 'MuseoModerno', sans-serif;
+    color:#0a2ff1;
+    font-weight: bold ;
+    font-size: 36pt;
+}
+
+ul{
+    font-family: 'Asap', sans-serif;
+    color:#04146c;
+    font-weight:bold ;
+    font-size: 25pt;
+}
+
+.modo {
+
+    font-family: 'MuseoModerno', sans-serif;
+    color:#8a9af1;
+    font-weight: bold ;
+    font-size: 149pt;
+}

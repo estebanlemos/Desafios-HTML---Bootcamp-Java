@@ -1,0 +1,28 @@
+
+body {
+
+min-height: 1080px;
+max-width: 900px;
+
+}
+
+.titulo {
+    font-family: 'Poppins', sans-serif;    
+    color: #0a2ff1;
+    font-weight: bold;
+    font-size: 32px;
+    font-weight: 300;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin: 0;
+    text-align: center;
+        
+}
+
+.imagenes {
+display: flex;
+vertical-align: middle;
+align-items: center;
+justify-content: center;
+gap: 30px;
+}
