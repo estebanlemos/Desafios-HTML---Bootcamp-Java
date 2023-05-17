@@ -1,0 +1,79 @@
+body {
+
+
+}
+
+footer {
+    border-bottom: #15163d solid 10px;
+    margin: auto;
+    margin-top: 100px;
+    width: 100%;
+}
+
+main {
+    
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(images/Desafio3imgheader.png);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: auto;
+    
+    height: 90vh; 
+
+}
+
+
+.titulo {
+    font-family: 'Roboto', sans-serif;
+    font-size: 58.66px;
+    font-weight: 700;
+    color: #0a2ff1;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25.33px;
+    font-weight: 700;
+    color: #0a2ff1;
+    padding: 0;
+    margin: auto; 
+}
+
+.p1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 25.33px;
+    font-weight: 400;
+    color: black; 
+    margin: auto;
+}
+
+.p2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: black; 
+    margin: auto;
+    padding-top: 0;
+}
+
+.contacto {
+    font-family: 'Roboto', sans-serif;
+    font-size: 26.66px;
+    font-weight: 400;
+    margin-top: 50px;
+    box-sizing: border-box;
+    height: 50px;
+    width: 200px;
+    color: white;
+    background-color: #0a2ff1;
+    border: none;
+
+}

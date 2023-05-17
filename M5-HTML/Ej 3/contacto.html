@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Laboratorio 1</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ej1.css">
+</head>
+<body>
+    <header class="header">
+<img class="logo" src="images/M5-logo-azul.svg" alt="logoin">
+<a class="vinculos" href="index.html">Home</a>
+<a class= "vinculos activo" href="contacto.html">Contacto</a>
+    </header>
+
+<p class="tituloform">
+
+    <span class="contactemos">¿Querés que nos contactemos con vos?</span><br><br>
+    <span> Dejanos tu consulta:</span>
+</p>
+    <div class="formulario">
+    
+        <form>
+       
+    <label class="labelform" for="nombre">Nombre completo<span style="color: red;">*</span></label>
+    <input class="inputs" type="text" placeholder="Ingrese nombre completo" id="nombre" name="nombre" required><br>
+    <label class="labelform" for="email">Email<span style="color: red;">*</span></label><br>
+    <input class="inputs" type="email" placeholder="Ingrese email" id="email" name="email" required><br>
+    <label class="labelform" for="comentarios">Comentarios<span style="color: red;">*</span></label><br>
+    <textarea class="comentarios" id="comentarios" name="comentarios" required></textarea><br>
+    <input class="resetear" type="reset" id="resetear" value="Resetear">
+    <input class="enviar" type="submit" id="submit" value="Enviar"><br>
+    
+        
+    
+    
+    </form>
+    </div>
+
+  
+    
+</body>
+</html>
